@@ -1,0 +1,5 @@
+bs4==0.0.2
+requests==2.31.0
+colorama==0.4.6
+python-nmap==0.7.1
+phonenumbers==8.13.34
